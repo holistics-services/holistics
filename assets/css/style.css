@@ -1,0 +1,14 @@
+@charset "UTF-8";
+section {
+  background-color: #ffffff;
+}
+
+
+
+body {
+  font-style: poppins-regular;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #373C42;
+  position: relative;
+}
